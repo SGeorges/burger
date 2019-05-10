@@ -16,11 +16,7 @@
       "dialect": "mysql"
     },
     "production": {
-      "username": "wlwqjb706sgdcs6p",
-      "password": "bxwgwq1efa35qe7f",
-      "database": "ou2ktxn6xlaz8hvi",
-      "host": "tviw6wn55xwxejwj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-      "port": 3306,
+      "use_env_variable":"JAWSDB_URL",
       "dialect": "mysql"
     }
   }
